@@ -2,13 +2,22 @@
 <html>
 <head>
 	<title>Jake's Calculator</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+	<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 	<link rel="stylesheet" type="text/css" href="style.css">
+	<script>
+	  $( function() {
+	    $( "#floater" ).draggable();
+	  } );
+ 	</script>
 </head>
 <body>	
 
 <CENTER>
 
-<FORM name="Keypad" action="">
+<div id="floater" class="ui-widget-content">
+<FORM name="Keypad" id="keypad" action="">
 <TABLE>
 <B>
 <TABLE border=2 width=50 height=60 cellpadding=1 cellspacing=5>
@@ -97,7 +106,9 @@
 </TABLE>
 </B>
 </FORM>
+</div>
 </CENTER>
 <SCRIPT src="calculator.js"></SCRIPT>
+
 </body>
 </html>

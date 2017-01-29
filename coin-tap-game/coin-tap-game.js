@@ -42,6 +42,7 @@
         };
 }());
 
+var setScore;
 (function () {
 			
 	var numCoins = 5,
@@ -49,6 +50,10 @@
 	    coins = [],
 		canvas;			
 
+	setScore = function (s) {
+		score = s;
+	};
+	
 	function gameLoop () {
 	
 	  var i;
