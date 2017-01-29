@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Jake's Calculator</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>	
+
+<CENTER>
+
+<FORM name="Keypad" action="">
+<TABLE>
+<B>
+<TABLE border=2 width=50 height=60 cellpadding=1 cellspacing=5>
+<TR>
+<TD colspan=3 align=middle>
+<input name="ReadOut" type="Text" size=24 value="0" width=100%>
+</TD>
+<TD>
+</TD>
+<TD>
+<button name="btnClear" type="Button" onclick="Clear()">C</button>
+</TD>
+<TD>
+<button name="btnClearEntry" type="Button" onclick="ClearEntry()">CE</button>
+</TD>
+</TR>
+<TR>
+<TD>
+<button type="button" name="btnSeven" onclick="NumPressed(7)">7</button>
+</TD>
+<TD>
+<button type="button" name="btnEight" onclick="NumPressed(8)">8</button>
+</TD>
+<TD>
+<button type="button" name="btnNine" onclick="NumPressed(9)">9</button>
+<TD>
+</TD>
+<TD>
+<button type="button" name="btnNeg" onclick="Operation('+/-')">+/-</button>
+</TD>
+<TD>
+<button type="button" name="btnPercent" onclick="Operation('%')">%</button>
+</TD>
+</TR>
+<TR>
+<TD>
+<button type="button" name="btnFour" onclick="NumPressed(4)">4</button>
+</TD>
+<TD>
+<button type="button" name="btnFive" onclick="NumPressed(5)">5</button>
+</TD>
+<TD>
+<button type="button" name="btnSix" onclick="NumPressed(6)">6</button>
+</TD>
+<TD>
+</TD>
+<td>
+<button type="button" name="btnPlus" onclick="Operation('+')">+</button>
+</TD>
+<td>
+<button type="button" name="btnMinus" onclick="Operation('-')">-</button>
+</TD>
+</TR>
+<TR>
+<TD>
+<button type="button" name="btnOne" onclick="NumPressed(1)">1</button>
+</TD>
+<TD>
+<button type="button" name="btnTwo" onclick="NumPressed(2)">2</button>
+</td>
+<TD align=middle>
+<button type="button" name="btnThree" onclick="NumPressed(3)">3</button>
+</TD>
+<TD>
+</TD>
+<TD align=middle>
+<button type="button" name="btnMultiply" onclick="Operation('*')">*</button>
+</TD>
+<TD align=middle>
+<button type="button" name="btnDivide" onclick="Operation('/')">/</button>
+</TD>
+</TR>
+<TR>
+<TD>
+<button type="button" name="btnZero" onclick="NumPressed(0)">0</button>
+</TD>
+<TD>
+<button type="button" name="btnDecimal" onclick="Decimal()">.</button>
+</TD>
+<TD colspan=3>
+</TD>
+<TD>
+<button type="button" name="btnEquals" onclick="Operation('=')">=</button>
+</TR>
+</TABLE>
+</TABLE>
+</B>
+</FORM>
+</CENTER>
+<SCRIPT src="calculator.js"></SCRIPT>
+</body>
+</html>
