@@ -2,8 +2,12 @@
 
 body {
   background-image: url("background.jpeg");
+}
+
+.sans {
   background: #111;
   font-family: "Open Sans",  Impact;
+}	
 
 hr {
   border: 1px solid aqua;
