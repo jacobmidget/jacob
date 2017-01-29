@@ -30,6 +30,14 @@ h1 {
 	height: 40px;
 }
 
+#floater {
+	position: absolute;
+}
+
+#keypad {
+	position: relative;
+}
+
 button {
 	-moz-box-shadow: -13px -4px 17px -7px #276873;
 	-webkit-box-shadow: -13px -4px 17px -7px #276873;

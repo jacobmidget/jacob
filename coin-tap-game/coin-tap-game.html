@@ -5,7 +5,6 @@
         <title>Coin Tap Game</title>
         <link rel="stylesheet" type="text/css" href="coin-tap-game.css" />
         <link rel="stylesheet" type="text/css" href="../style.css" />
-        <script src="jquery-3.1.1.min.js"></script>
         <script>
 			$(document).ready(function(){
 				$("#coinTapGameContainer").hide();
@@ -31,9 +30,9 @@
     			}
     			
     			function showGame() {
-    				$('#coinTapGameContainer').show();
-    				$('#score').html("0");
     				$('#overContainer').hide();
+    				$('#coinTapGameContainer').show();
+					setScore(0);
 	    			$("#toggle").html('End Game');
 	    			$("#toggle").show();
 					$('#coinTapGameContainer').delay(30000).fadeOut('slow', function() {
@@ -53,10 +52,9 @@
 			<div id="gameOver" class="area">
 				&#9888; Game Over &#9888;
 			</div>
-			<div id="endScore" class="score">
-			</div>
+			<div id="endScore" class="score"></div>
 		</div>
-		<button id="toggle" width="50" height="20" class="largebutton">Start Game</button>
+		<button id="toggle" class="largebutton">Start Game</button>
 	    </div>
 	    <script src="coin-tap-game.js"></script>
     </body>
