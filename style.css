@@ -1,0 +1,14 @@
+body {
+  background-image: url("https://github.com/jacobmidget/jacob/blob/master/website%20background.jpeg?raw=true");
+}
+
+h1 {
+  color: aquamarine;
+  text-align: center;
+  text-transform: capitalize;
+  text-shadow: 4px 3px blue;
+}
+
+hr {
+  border: 1px solid aqua;
+}
