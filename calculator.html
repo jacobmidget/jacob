@@ -6,23 +6,23 @@
 </head>
 <body>	
 
-
+<CENTER>
 
 <FORM name="Keypad" action="">
 <TABLE>
-	
+<B>
 <TABLE border=2 width=50 height=60 cellpadding=1 cellspacing=5>
 <TR>
 <TD colspan=3 align=middle>
-<input name="readout" type="text" size=24 value="0" width=100%>
+<input name="ReadOut" type="Text" size=24 value="0" width=100%>
 </TD>
 <TD>
 </TD>
 <TD>
-<button type="button" class="smallbutton" code="btnclear" onclick="Clear()">C</button>
+<button name="btnClear" class="smallbutton" Button" onclick="Clear(C)">C</button>
 </TD>
 <TD>
-<button type="button" class="smallbutton" code="Btnclearentry" onclick="ClearEntry()">CE</button>
+<button name="btnClearEntry" class="smallbutton" type="Button" onclick="ClearEntry(CE)">CE</button>
 </TD>
 </TR>
 <TR>
@@ -95,8 +95,9 @@
 </TR>
 </TABLE>
 </TABLE>
+</B>
 </FORM>
-
+</CENTER>
 <SCRIPT src="calculator.js"></SCRIPT>
 </body>
 </html>
