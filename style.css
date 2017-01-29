@@ -12,3 +12,8 @@ h1 {
 hr {
   border: 1px solid aqua;
 }
+
+.neonText h2 {
+	color: #fff;
+	text-shadow:0 0 5px #CCCCCC, 0 0 10px #CCCCCC, 0 0 15px #CCCCCC, 0 0 20px #095816, 0 0 25px #095816, 0 0 30px #095816, 0 0 50px #095816, 0 0 80px #095816, 0 0 100px #095816, 0 0 150px #095816
+}
