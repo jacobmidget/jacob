@@ -1,9 +1,9 @@
 body {
-  background-image: url("https://github.com/jacobmidget/jacob/blob/master/website%20background.jpeg?raw=true");
+  background-image: url("background.jpeg");
 }
 
 h1 {
-  color: aquamarine;
+  color: #7FFFD4;
   text-align: center;
   text-transform: capitalize;
   text-shadow: 4px 3px blue;
