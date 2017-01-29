@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+        <title>Coin Tap Game</title>
+        <link rel="stylesheet" type="text/css" href="coin-tap-game.css" />
+        <link rel="stylesheet" type="text/css" href="../style.css" />
+        <script src="jquery-3.1.1.min.js"></script>
+        <script>
+			$(document).ready(function(){
+				$("#coinTapGameContainer").hide();
+				$("#overContainer").hide();
+    			$("#toggle").click(function(){
+    				var original = $("#toggle").html();
+    				var newText = '';
+    				if (original == 'Start Game') {
+						showGame();
+    				}
+    				else {
+						hideGame();
+    				}
+    			});
+    			
+    			function hideGame() {
+    				$('#coinTapGameContainer').hide();
+	    			$('#overContainer').show();
+	    			var gameOverText = "Score: " + $('#score').html();
+	    			$('#endScore').html(gameOverText);
+	    			$("#toggle").html('Start Game');
+	    			$("#toggle").show();
+    			}
+    			
+    			function showGame() {
+    				$('#coinTapGameContainer').show();
+    				$('#score').html("0");
+    				$('#overContainer').hide();
+	    			$("#toggle").html('End Game');
+	    			$("#toggle").show();
+					$('#coinTapGameContainer').delay(30000).fadeOut('slow', function() {
+						hideGame();						
+					});
+    			}
+			});
+	</script>
+    </head>
+    <body>
+    	<div align="center">
+        <div id="coinTapGameContainer">
+        	<div id="score">0</div>
+			<canvas id="coinTapGame"></canvas>
+		</div>
+		<div id="overContainer">
+			<div id="gameOver" class="area">
+				&#9888; Game Over &#9888;
+			</div>
+			<div id="endScore" class="score">
+			</div>
+		</div>
+		<button id="toggle">Start Game</button>
+	    </div>
+	    <script src="coin-tap-game.js"></script>
+    </body>
+</html>
