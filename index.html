@@ -1,17 +1,24 @@
 <!DOCTYPE html>
 <html>
 <head>
-   <title>Jacob's webpage</title>
-  <script src="shapes.js">
-  </script>
-  <link rel="stylesheet" type="text/css" href="style.css">
+	<title>Jacob's webpage</title>
+  	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>  	<script src="menu.js"></script>
+  	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
-<body onLoad='init()'>
-  <script type="text/javascript" src="rain.js"></script>
-  <h1>jacob's homepage </h1>
-  <hr>
-  <canvas id="canvas1" width="400" height="300">
-    This text is displayed if your browser does not support HTML5 Canvas.  A shape canvas is displayed here.
-  </canvas>   
+<body>
+  	<!--script type="text/javascript" src="rain.js"></script-->
 
+  	<h1>Jacob Midgley's homepage </h1>
+  	
+  	<ul class="topnav">
+  		<li><a href="shapes.html" target="content" class="active">Home</a></li>
+  		<li><a href="snake-game.html" target="content">Snake Game</a></li>
+  		<li><a href="calculator.html" target="content">Calculator</a></li>
+  		<li><a href="coin-tap-game/coin-tap-game.html" target="content">Coin Tap Game</a></li>
+	</ul> 
+  	<hr>
+  	
+	<iframe id="content" name="content" align="top" src="shapes.html" 
+		frameborder="0" width="100%" height="1200px" scrolling="no">
+  	</iframe>
 </html>

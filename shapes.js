@@ -37,10 +37,16 @@ Shape.prototype.contains = function(mx, my) {
 function CanvasState(canvas) {
   // **** First some setup! ****
   
+  
   this.canvas = canvas;
+  this.ctx = canvas.getContext('2d');
+  this.ctx.canvas.width  = window.innerWidth;
+  this.ctx.canvas.height = window.innerHeight;
   this.width = canvas.width;
   this.height = canvas.height;
-  this.ctx = canvas.getContext('2d');
+
+
+
   // This complicates things a little but but fixes mouse co-ordinate problems
   // when there's a border or padding. See getMouse for more detail
   var stylePaddingLeft, stylePaddingTop, styleBorderLeft, styleBorderTop;
