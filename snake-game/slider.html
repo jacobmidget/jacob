@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+
+  <style>
+    .slider {
+      width: 80px; height: 60px;
+      overflow: hidden;
+      position: relative; /* for overflow: hidden to work in IE7 */
+    }
+      .slider > ul {
+        /* styled by JS to match the added width and height of all <li>’s */
+        position: relative;
+        left: 0;
+        -webkit-transition: .5s left;
+        -moz-transition: .5s left;
+        -ms-transition: .5s left;
+        -o-transition: .5s left;
+
+        list-style: none;
+        margin: 0; padding: 0;
+      }
+        .slider > ul > li {
+          float: left;
+          width: 80px; height: 60px;
+        }
+  </style>
+
+  <script>
+    var Slider = function() { this.initialize.apply(this, arguments) }
+    Slider.prototype = {
+
+      initialize: function(slider) {
+        this.ul = slider.children[0]
+        this.li = this.ul.children
+
+        // make <ul> as large as all <li>’s
+        this.ul.style.width = (this.li[0].clientWidth * this.li.length) + 'px'
+
+        this.currentIndex = 0
+      },
+
+      goTo: function(index) {
+        // filter invalid indices
+        if (index < 0 || index > this.li.length - 1)
+          return
+
+        // move <ul> left
+        this.ul.style.left = '-' + (100 * index) + '%'
+
+        this.currentIndex = index
+      },
+
+      goToPrev: function() {
+        this.goTo(this.currentIndex - 1);
+        delay = 100 - this.currentIndex * 25;
+      },
+
+      goToNext: function() {
+        this.goTo(this.currentIndex + 1);
+        delay = 100 - this.currentIndex * 25;
+      }
+    }
+  </script>
+<table>
+	<tr>
+		<td>
+			<button type="button" onclick="javascript:sliders[0].goToPrev()">&lt;</button>
+		</td>
+		<td>
+			<div class="slider">
+  				<ul>
+			      <li><img src="img/1.png" width="80" height="60"></li>
+			      <li><img src="img/2.png" width="80" height="60"></li>
+			      <li><img src="img/3.png" width="80" height="60"></li>
+			      <li><img src="img/4.png" width="80" height="60"></li>
+			    </ul>
+      		</div>
+		</td>
+		<td>
+			<button type="button" onclick="javascript:sliders[0].goToNext()">&gt;</button>
+		</td>
+	</tr>
+
+  <script>
+    var sliders = []
+    $('.slider').each(function() {
+      sliders.push(new Slider(this))
+    })
+    
+  </script>
+
+</body>
+</html>
