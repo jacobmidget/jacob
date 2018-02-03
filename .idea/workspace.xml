@@ -1,22 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/scoreboard/src/styles.css" description="&#10;/* You can add global styles to this file, and al..." line="8" />
+    <bookmark url="file://$PROJECT_DIR$/scoreboard/src/styles.css" description="&#10;/* You can add global styles to this file, and al..." line="1" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="998c35a0-4637-4e87-89ea-924bef95b195" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" afterPath="$PROJECT_DIR$/README" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator.html" beforeDir="false" afterPath="$PROJECT_DIR$/calculator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/calculator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coin-tap-game/coin-tap-game.css" beforeDir="false" afterPath="$PROJECT_DIR$/coin-tap-game/coin-tap-game.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coin-tap-game/coin-tap-game.html" beforeDir="false" afterPath="$PROJECT_DIR$/coin-tap-game/coin-tap-game.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coin-tap-game/coin-tap-game.js" beforeDir="false" afterPath="$PROJECT_DIR$/coin-tap-game/coin-tap-game.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rain.js" beforeDir="false" afterPath="$PROJECT_DIR$/rain.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard/angular-cli.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/edit-profile/edit-profile.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/edit-profile/edit-profile.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/edit-profile/edit-profile.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/edit-profile/edit-profile.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/forgot-password/forgot-password.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/forgot-password/forgot-password.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/forgot-password/forgot-password.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/forgot-password/forgot-password.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/login/login.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/login/login.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/login/login.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/login/login.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/scoreboard/scoreboard.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/scoreboard/scoreboard.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/scoreboard/scoreboard.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/scoreboard/scoreboard.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/show-password/show-password.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/show-password/show-password.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/show-password/show-password.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/show-password/show-password.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/user-profile/user-profile.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/user-profile/user-profile.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/user-profile/user-profile.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/user-profile/user-profile.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard/src/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scoreboard/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scoreboard/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scoreboard/e2e/app.e2e-spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/e2e/app.e2e-spec.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scoreboard/e2e/app.po.ts" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/e2e/app.po.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scoreboard/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/karma.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scoreboard/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scoreboard/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scoreboard/protractor.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/protractor.conf.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scoreboard/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/src/app/app.component.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scoreboard/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/src/app/app.component.html" afterDir="false" />
@@ -30,14 +53,7 @@
       <change beforePath="$PROJECT_DIR$/scoreboard/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/src/polyfills.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scoreboard/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/src/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scoreboard/src/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/src/test.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoreboard/src/typings.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/src/typings.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shapes.html" beforeDir="false" afterPath="$PROJECT_DIR$/shapes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snake-game.html" beforeDir="false" afterPath="$PROJECT_DIR$/snake-game.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snake-game.js" beforeDir="false" afterPath="$PROJECT_DIR$/snake-game.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snake-game/slider.html" beforeDir="false" afterPath="$PROJECT_DIR$/snake-game/slider.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snake-game/snake.html" beforeDir="false" afterPath="$PROJECT_DIR$/snake-game/snake.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snake-game/snake.js" beforeDir="false" afterPath="$PROJECT_DIR$/snake-game/snake.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scoreboard/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/tslint.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -101,6 +117,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/scoreboard/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="20" />
     <option name="y" value="40" />
@@ -112,77 +132,36 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="jacob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jacob" type="462c0819:PsiDirectoryNode" />
+              <item name="jacob" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="jacob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jacob" type="462c0819:PsiDirectoryNode" />
-              <item name=".settings" type="462c0819:PsiDirectoryNode" />
+              <item name="jacob" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="scoreboard" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="jacob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jacob" type="462c0819:PsiDirectoryNode" />
-              <item name="coin-tap-game" type="462c0819:PsiDirectoryNode" />
+              <item name="jacob" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="scoreboard" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="jacob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jacob" type="462c0819:PsiDirectoryNode" />
-              <item name="coin-tap-game" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jacob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jacob" type="462c0819:PsiDirectoryNode" />
-              <item name="scoreboard" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jacob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jacob" type="462c0819:PsiDirectoryNode" />
-              <item name="scoreboard" type="462c0819:PsiDirectoryNode" />
-              <item name="e2e" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jacob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jacob" type="462c0819:PsiDirectoryNode" />
-              <item name="scoreboard" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jacob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jacob" type="462c0819:PsiDirectoryNode" />
-              <item name="scoreboard" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jacob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jacob" type="462c0819:PsiDirectoryNode" />
-              <item name="scoreboard" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jacob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jacob" type="462c0819:PsiDirectoryNode" />
-              <item name="scoreboard" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="environments" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jacob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jacob" type="462c0819:PsiDirectoryNode" />
-              <item name="snake-game" type="462c0819:PsiDirectoryNode" />
+              <item name="jacob" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="scoreboard" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -213,6 +192,7 @@
       <option name="presentableId" value="Default" />
       <updated>1517187415658</updated>
       <workItem from="1517187419540" duration="2941000" />
+      <workItem from="1517687633434" duration="865000" />
     </task>
     <task id="LOCAL-00001" summary="Added license and readme">
       <created>1517188065417</created>
@@ -225,29 +205,30 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2941000" />
+    <option name="totallyTimeSpent" value="3806000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
     <layout>
-      <window_info anchor="bottom" id="TypeScript" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24359912" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,9 +267,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -296,14 +274,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scoreboard/e2e/tsconfig.e2e.json">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/scoreboard/src/app/app.component.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -323,10 +295,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#0#55#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -334,9 +302,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -344,15 +309,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scoreboard/src/assets/.gitkeep">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/scoreboard/src/environments/environment.prod.ts">
       <provider selected="true" editor-type-id="text-editor">
@@ -379,10 +337,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -390,9 +344,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -407,9 +358,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="84" selection-start-line="16" selection-start-column="84" selection-end-line="16" selection-end-column="84" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -417,17 +365,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scoreboard/.editorconfig">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scoreboard/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/scoreboard/karma.conf.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -524,9 +463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
