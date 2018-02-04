@@ -15,11 +15,9 @@ import { ShowPasswordComponent } from './show-password/show-password.component';
   declarations: [
     AppComponent,
     ScoreboardComponent,
-    EditProfileComponent,
     UserProfileComponent,
     ForgotPasswordComponent,
-    LoginComponent,
-    ShowPasswordComponent
+    LoginComponent
   ],
   imports: [
     BrowserModule,

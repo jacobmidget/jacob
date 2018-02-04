@@ -4,56 +4,18 @@
     <bookmark url="file://$PROJECT_DIR$/scoreboard/src/styles.css" description="&#10;/* You can add global styles to this file, and al..." line="1" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="998c35a0-4637-4e87-89ea-924bef95b195" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/scoreboard/angular-cli.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scoreboard/e2e/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/edit-profile/edit-profile.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/edit-profile/edit-profile.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/edit-profile/edit-profile.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/edit-profile/edit-profile.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/forgot-password/forgot-password.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/forgot-password/forgot-password.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/forgot-password/forgot-password.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/forgot-password/forgot-password.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/login/login.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/login/login.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/login/login.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/login/login.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/scoreboard/scoreboard.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/scoreboard/scoreboard.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/scoreboard/scoreboard.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/scoreboard/scoreboard.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/show-password/show-password.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/show-password/show-password.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/show-password/show-password.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/show-password/show-password.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/user-profile/user-profile.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/user-profile/user-profile.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/user-profile/user-profile.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scoreboard/src/app/user-profile/user-profile.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scoreboard/src/tsconfig.json" afterDir="false" />
+    <list default="true" id="83dac3ea-ad56-4e8a-afe3-fb399e4e945c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoreboard/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoreboard/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoreboard/e2e/app.e2e-spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/e2e/app.e2e-spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoreboard/e2e/app.po.ts" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/e2e/app.po.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoreboard/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/karma.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoreboard/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoreboard/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoreboard/protractor.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/protractor.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoreboard/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/src/app/app.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoreboard/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoreboard/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/src/app/app.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoreboard/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/src/app/app.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scoreboard/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoreboard/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/src/environments/environment.prod.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoreboard/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/src/environments/environment.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoreboard/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoreboard/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/src/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoreboard/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/src/polyfills.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoreboard/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/src/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoreboard/src/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/src/test.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoreboard/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scoreboard/src/app/edit-profile/edit-profile.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scoreboard/src/app/edit-profile/edit-profile.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scoreboard/src/app/edit-profile/edit-profile.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scoreboard/src/app/edit-profile/edit-profile.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scoreboard/src/app/show-password/show-password.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scoreboard/src/app/show-password/show-password.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scoreboard/src/app/show-password/show-password.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scoreboard/src/app/show-password/show-password.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scoreboard/src/app/user-profile/user-profile.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard/src/app/user-profile/user-profile.component.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -66,7 +28,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="user-profile.component.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scoreboard/src/app/user-profile/user-profile.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -84,7 +56,6 @@
         <option value="$PROJECT_DIR$/scoreboard/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/scoreboard/src/app/app.component.spec.ts" />
         <option value="$PROJECT_DIR$/scoreboard/src/app/app.component.ts" />
-        <option value="$PROJECT_DIR$/scoreboard/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/scoreboard/src/environments/environment.prod.ts" />
         <option value="$PROJECT_DIR$/scoreboard/src/environments/environment.ts" />
         <option value="$PROJECT_DIR$/scoreboard/src/index.html" />
@@ -108,6 +79,9 @@
         <option value="$PROJECT_DIR$/snake-game.html" />
         <option value="$PROJECT_DIR$/snake-game.js" />
         <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/scoreboard/src/app/edit-profile/edit-profile.component.html" />
+        <option value="$PROJECT_DIR$/scoreboard/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/scoreboard/src/app/user-profile/user-profile.component.html" />
       </list>
     </option>
   </component>
@@ -122,11 +96,12 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="20" />
-    <option name="y" value="40" />
-    <option name="width" value="2696" />
-    <option name="height" value="1584" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -137,25 +112,44 @@
           <expand>
             <path>
               <item name="jacob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jacob" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="jacob" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jacob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jacob" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="scoreboard" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="jacob" type="462c0819:PsiDirectoryNode" />
+              <item name="scoreboard" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jacob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jacob" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="scoreboard" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="jacob" type="462c0819:PsiDirectoryNode" />
+              <item name="scoreboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jacob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jacob" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="scoreboard" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="jacob" type="462c0819:PsiDirectoryNode" />
+              <item name="scoreboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jacob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jacob" type="462c0819:PsiDirectoryNode" />
+              <item name="scoreboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="scoreboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jacob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jacob" type="462c0819:PsiDirectoryNode" />
+              <item name="snake-game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jacob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jacob" type="462c0819:PsiDirectoryNode" />
+              <item name="snake-game" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -168,6 +162,12 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/scoreboard/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jacob\WebstormProjects\jacob\scoreboard\src\app\edit-profile" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -181,18 +181,36 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JavaScript Debug.user-profile.component.html">
+    <configuration name="edit-profile.component.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jacob/scoreboard/src/app/edit-profile/edit-profile.component.html" />
+    <configuration name="user-profile.component.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jacob/scoreboard/src/app/user-profile/user-profile.component.html" />
+    <list>
+      <item itemvalue="JavaScript Debug.edit-profile.component.html" />
+      <item itemvalue="JavaScript Debug.user-profile.component.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.user-profile.component.html" />
+        <item itemvalue="JavaScript Debug.edit-profile.component.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="998c35a0-4637-4e87-89ea-924bef95b195" name="Default" comment="" />
+      <changelist id="83dac3ea-ad56-4e8a-afe3-fb399e4e945c" name="Default" comment="" />
       <created>1517187415658</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517187415658</updated>
       <workItem from="1517187419540" duration="2941000" />
       <workItem from="1517687633434" duration="865000" />
+      <workItem from="1517713284395" duration="376000" />
+      <workItem from="1517713875749" duration="2483000" />
+      <workItem from="1517730172560" duration="68000" />
+      <workItem from="1517730875152" duration="141000" />
     </task>
     <task id="LOCAL-00001" summary="Added license and readme">
       <created>1517188065417</created>
@@ -205,27 +223,28 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3806000" />
+    <option name="totallyTimeSpent" value="9160000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24359912" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24304539" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TypeScript" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info active="true" anchor="bottom" id="Messages" order="8" visible="true" weight="0.32913387" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -242,6 +261,79 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added license and readme" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scoreboard/src/app/user-profile/user-profile.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snake-game/snake.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="88" column="19" lean-forward="true" selection-start-line="88" selection-start-column="19" selection-end-line="88" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snake-game/snake.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snake-game/slider.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="94" column="7" lean-forward="true" selection-start-line="94" selection-start-column="7" selection-end-line="94" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calculator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calculator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scoreboard/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scoreboard/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scoreboard/src/app/app.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="19" lean-forward="true" selection-start-line="57" selection-start-column="30" selection-end-line="59" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/coin-tap-game/coin-tap-game.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -305,13 +397,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scoreboard/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scoreboard/src/environments/environment.prod.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -330,13 +415,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scoreboard/src/main.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
@@ -482,8 +560,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="1309">
+          <caret line="77" column="19" selection-start-line="75" selection-start-column="30" selection-end-line="77" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scoreboard/src/app/edit-profile/edit-profile.component.html" />
+    <entry file="file://$PROJECT_DIR$/scoreboard/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scoreboard/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scoreboard/src/app/user-profile/user-profile.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
         </state>
       </provider>
     </entry>
